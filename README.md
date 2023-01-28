@@ -1,4 +1,4 @@
-### Hi there 👋, John Ross
+### Hi there 👋, I'm John Ross
 #### Full Stack Developer | Software Engineer
 ![Full Stack Developer | Software Engineer](https://media.licdn.com/dms/image/D5616AQEPzjprIfefIQ/profile-displaybackgroundimage-shrink_350_1400/0/1674879548481?e=1680134400&v=beta&t=7yTQYUsTgHJ6Zuk945efJUu2jTOhKKBngSpz79p-rIc)
 
