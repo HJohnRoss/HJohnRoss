@@ -26,5 +26,5 @@ I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make
 - 🔭 I’m currently working on a budgeting app using plaid api 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjohnross&show_icons=true&locale=en&layout=compact" alt="hjohnross" /><br/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hjohnross&show_icons=true&locale=en" alt="hjohnross" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hjohnross&show_icons=true&locale=en" alt="hjohnross" /><br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjohnross&theme=default" alt="hjohnross" /></p>
