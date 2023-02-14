@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm John Ross 👋 </br>
-Full Stack Developer | Software Engineer</h1>
+<h1 align="center">Hi there, I'm John Ross 👋</h1>
+
+<h3 align="center">Full Stack Developer | Software Engineer</h3>
 
   
 ![Full Stack Developer | Software Engineer](https://media.licdn.com/dms/image/D5616AQEPzjprIfefIQ/profile-displaybackgroundimage-shrink_350_1400/0/1674879548481?e=1680134400&v=beta&t=7yTQYUsTgHJ6Zuk945efJUu2jTOhKKBngSpz79p-rIc)
