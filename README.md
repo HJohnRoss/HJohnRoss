@@ -16,8 +16,8 @@
 I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make code that is very dynamic and can be used in many ways. I wanted to learn how   to code because I have always been a curious person about logic and how electronics and pretty much anything that can move works behind the scenes. Im always pushing myself to get better and to learn new technologies everyday.
 <h4>
 
-- 🔭 I’m currently working on [Your Anime Index 🦎](https://github.com/CiaranVoros/YourAnimeIndex)
-- 🌱 I’m currently learning **TypeScript, Complex Data Structures**
+- 🔭 I’m currently working on [Tweeter 🦎](https://github.com/HJohnRoss/Tweeter)
+- 🌱 I’m currently learning **TypeScript, C#**
 - 📫 How to reach me **rossjohn936@gmail.com**
 - ⚡ Fun fact: **I haven't always been a nerd pretty much all my life I had played football until I tore my ACL my sophmore year.🏼**
   
