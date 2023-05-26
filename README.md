@@ -53,7 +53,7 @@ I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make
   <li>DevOps [AWS, Bash]</li>
   <li>Software [Postman, MySQL Workbench, VS Code, Eclipse]</li>
   <li>Version Control Systems [Git, Github]</li>
-  <li>OS [Linux SysAdmin: Ubuntu, Fedora]</li>
+  <li>OS [Linux SysAdmin: Ubuntu]</li>
   <li>Other [Agile, Scrum, RESTful Architecture & API, MVC, SDLC]</li>
 </ul>
 
