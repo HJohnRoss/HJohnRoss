@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 
   
-<img src="https://media.licdn.com/dms/image/D5616AQEPzjprIfefIQ/profile-displaybackgroundimage-shrink_350_1400/0/1674879548481?e=1686182400&v=beta&t=Dgtdxwnyi7NOOVAqggEYnAKUGWoXKQyNjJ5c-BAPOJw"/>
+<img src="https://media.licdn.com/dms/image/D5616AQEPzjprIfefIQ/profile-displaybackgroundimage-shrink_350_1400/0/1674879548481?e=1692230400&v=beta&t=1m6d5p_7XRqmhcERsHiJKdf-aVWM1DOz2yCfOHvp4Ns"/>
 
 <h4 align="center">💬 Connect with me:</h4>
 <p align="center">
@@ -16,7 +16,7 @@ I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make
 <h4>
 
 - 🔭 I’m currently working on [Task App 🦎](https://github.com/HJohnRoss/taskApp)
-- 🌱 I’m currently learning **C#, .NET**
+- 🌱 I’m currently learning **C#, .NET, Unity**
 - 📫 How to reach me **rossjohn936@gmail.com**
 - ⚡ Fun fact: **I haven't always been a nerd pretty much all my life I had played football until I tore my ACL my sophmore year.🏼**
   
