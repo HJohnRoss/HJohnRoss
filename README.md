@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 
   
-<img src="https://media.licdn.com/dms/image/D5616AQEPzjprIfefIQ/profile-displaybackgroundimage-shrink_350_1400/0/1674879548481?e=1692230400&v=beta&t=1m6d5p_7XRqmhcERsHiJKdf-aVWM1DOz2yCfOHvp4Ns"/>
+<img src="https://media.licdn.com/dms/image/D5616AQEPzjprIfefIQ/profile-displaybackgroundimage-shrink_350_1400/0/1674879548481?e=1699488000&v=beta&t=JzLsBq_9iLxaLSj4q_dL5nu3Y1F8StdxbFq90Tr-ADg"/>
 
 <h4 align="center">💬 Connect with me:</h4>
 <p align="center">
