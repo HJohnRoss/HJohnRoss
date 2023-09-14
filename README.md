@@ -16,7 +16,7 @@ I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make
 <h4>
 
 - 🔭 I’m currently working on a [Drawing App 🦎](https://github.com/HJohnRoss/drawingApp)
-- 🌱 I’m currently learning **C#, .NET, Unity**
+- 🌱 I’m currently learning **C++**
 - 📫 How to reach me **rossjohn936@gmail.com**
 - ⚡ Fun fact: **I haven't always been a nerd pretty much all my life I had played football until I tore my ACL my sophmore year.🏼**
   
