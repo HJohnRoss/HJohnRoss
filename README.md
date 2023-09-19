@@ -50,7 +50,7 @@ I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make
   <li>Frontend Development [CSS, HTML, ReactJS, Bootstrap, Sass, Tailwind, jQuery, AJAX, JPA]</li>
   <li>Backend Development [NodeJS, Spring Tool Suite, Spring Security, Express.JS, Flask, Bcrypt, JSP, JSON, EJS, npm, Spring Boot, Hibernate, Servlets, Tomcat, Apache, Dependency Injection]</li> 
   <li>Databases [MySQL, MongoDB, SQLite]</li>
-  <li>DevOps [AWS, Bash]</li>
+  <li>DevOps [AWS (EC2), Bash]</li>
   <li>Software [Postman, MySQL Workbench, VS Code, Eclipse]</li>
   <li>Version Control Systems [Git, Github]</li>
   <li>OS [Linux SysAdmin: Ubuntu]</li>
