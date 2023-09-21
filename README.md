@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm John Ross 👋</h1>
+<p align="center">Hi there, I'm John Ross 👋</p>
 
-<h3 align="center">Full Stack Developer | Software Engineer</h3>
+<p align="center">Full Stack Developer | Software Engineer</p>
 
   
 <img src="https://media.licdn.com/dms/image/D5616AQEPzjprIfefIQ/profile-displaybackgroundimage-shrink_350_1400/0/1674879548481?e=1699488000&v=beta&t=JzLsBq_9iLxaLSj4q_dL5nu3Y1F8StdxbFq90Tr-ADg"/>
@@ -11,16 +11,16 @@
   <a href="https://www.leetcode.com/johnross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s-hightower" height="25" width="35" /></a>
 </p>
 
-<h4 align="center">
+<p align="center">
 I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make code that is very dynamic and can be used in many ways. I wanted to learn how   to code because I have always been a curious person about logic and how electronics and pretty much anything that can move works behind the scenes. Im always pushing myself to get better and to learn new technologies everyday.
-<h4>
+<p>
 
 - 🔭 I’m currently working on a [Drawing App 🦎](https://github.com/HJohnRoss/drawingApp)
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me **rossjohn936@gmail.com**
 - ⚡ Fun fact: **I haven't always been a nerd pretty much all my life I had played football until I tore my ACL my sophmore year.🏼**
   
-<h3 align="center">Languages and Tools:</h3>
+<p align="center">Languages and Tools:</p>
 <p align="center"> 
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
