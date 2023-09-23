@@ -57,4 +57,6 @@ I'm a full stack developer from Las Vegas. I really enjoy pushing myself to make
   <li>Other [Agile, Scrum, RESTful Architecture & API, MVC, SDLC]</li>
 </ul>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjohnross" alt="hjohnross"/></p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hjohnross&theme=default" alt="hjohnross" /></p>
