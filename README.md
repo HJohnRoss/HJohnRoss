@@ -1,11 +1,10 @@
-<p align="center">Hi there, I'm John Ross 👋</p>
+<h1>John Ross</h1>
 
-<p align="center">Full Stack Developer | Software Engineer</p>
+<p>Full Stack Developer | Software Engineer</p>
 
-<h4 align="center">💬 Connect with me:</h4>
-<p align="center">
+<h4>💬 Connect with me:</h4>
+<p>
   <a href="https://linkedin.com/in/hjohnross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhightower" height="25" width="35" /></a>
-  <a href="https://www.leetcode.com/johnross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s-hightower" height="25" width="35" /></a>
 </p>
 
 - 🔭 I’m currently working on [TBD 🦎]
