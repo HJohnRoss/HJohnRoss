@@ -7,4 +7,3 @@ Fun Facts
 * I’m currently learning C/Cpp and OpenGL
 * I have 3 huskys
 * Im terminally online
-* Watch me code @ https://www.twitch.tv/femet
